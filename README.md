@@ -3,12 +3,12 @@
 
 <h1>Bypass 2.0</h1>
 
-<h3>An official Fog Network proxy site, made to access the blocked web</h3>
+<h3>An official Bypass Network proxy site, made to access the blocked web</h3>
 
 <p>Surf without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom from censorship.
 Read the documentation below to find out more</p>
 
-<p>Want to improve Tsunami? <a href="https://github.com/FogNetwork/Tsunami/compare">Create a pull request</a></p>
+<p>Want to improve Bypass 2.0? <a href="https://github.com/Bypass-Network/Bypass-2.0/compare">Create a pull request</a></p>
 </div>
 
 <p align="center">
