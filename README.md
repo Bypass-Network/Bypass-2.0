@@ -1,10 +1,7 @@
 <div align="center">
 
-<kbd>
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/public/img/logo.svg">
-</kbd>
 
-<h1>Tsunami</h1>
+<h1>Bypass 2.0</h1>
 
 <h3>An official Fog Network proxy site, made to access the blocked web</h3>
 
@@ -16,11 +13,7 @@ Read the documentation below to find out more</p>
 
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
-<a href="https://repl.it/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
-<a href="https://railway.app/new/template?template=https://github.com/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/railway2.svg"><img></a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/FogNetwork/Tsunami&branch=main&name=Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/koyeb2.svg"><img></a>
-</p>
+<a href="https://replit.com/github/Bypass-Network/Bypass-2.0"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 
 ## Documentation
 
@@ -169,10 +162,6 @@ All proxies hosted locally, so you don't need any subdomains
 
 ### FAQ
 
-**How can I get new domains?**
-
-Join our [discord](https://discord.gg/yk33HZSZkU) for more Tsunami links
-
 **Captcha not working/issues**
 
 Captcha is only supported on Ultraviolet
@@ -183,7 +172,7 @@ Try using the QR code. Refreshing the page might help
 
 ### Contact
 
-Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
+Jackson - [JacksonDevelopment](https://github.com/JacksonDevelopment)
 
 ## More
 
@@ -217,7 +206,7 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 ### Credits
 
-[Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
+[Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer Of Tsunami (THE BACKBONES OF THIS SITE!!!) 
 
 [EnderKingJ](https://github.com/EnderKingJ) - Helper/Proxy Developer/Squares Background
 
