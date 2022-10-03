@@ -228,4 +228,4 @@ Jackson - [JacksonDevelopment](https://github.com/JacksonDevelopment)
 
 ### Contributing
 
-See [CONTRIBUTING.md](https://github.com/FogNetwork/Tsunami/blob/main/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/Bypass-Network/Bypass-2.0/blob/main/CONTRIBUTING.md)
